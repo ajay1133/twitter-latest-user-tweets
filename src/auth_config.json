@@ -1,0 +1,8 @@
+{
+  "domain": "dev-jqbx3bi9.us.auth0.com",
+  "clientId": "4lhxHeRy1oWGazcqQKlz6uYFOXVgWG2M",
+  "clientSecret": "jmRogjWodBjM8Ur4w_rV209OAOJ0Pl7zASx4pRMLrNUl8Ix7vKMEHPLPYefZ8fmT",
+  "auth0_management_clientId": "NncF56AlWNdWr0RERFI82iIlcaE5uZe3",
+  "auth0_management_clientSecret": "kN04sonXnk8qElqElGtvLjf2ClgzcULFCBwBvANFRQUReI_pAJrYYoELrksdCD0S",
+  "audience": "api/v1/process-tweets"
+}
